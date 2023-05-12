@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         int client = 100; // на счете клиента
-        int i = 100; // сумма пополнения счета
+        int i = 1001; // сумма пополнения счета
 
         int bonus;
         if (i > 1000) {
